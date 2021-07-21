@@ -53,7 +53,7 @@
            05 VALUE 'ID NUMBER'                      LINE 7  COL 10.
            05 ID-IN                                  LINE 7 COL 25
                            PIC X(5) TO ID-O .
-           05 VALUE 'C - TO CONTINUE'                LINE 11 COL 30.
+        
            05 VALUE 'Q TO QUIT'                      LINE 12 COL 30.
            05 VALUE 'ENTER RESPONSE'                 LINE 14 COL 30.
            05 RESPONSE-INPUT                         LINE 14 COL 45
