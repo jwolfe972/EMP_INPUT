@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. EMP-SCR.
        AUTHOR. J WOLFE.
-       DATE-WRITTEN. 07/17/2021.
+       DATE-WRITTEN. 07/21/2021.
       *****************************************************************
       * THIS PROGRAM IS ONLY INTENDED FOR USE WITH VISUAL COBOL ELEMENTS
       * AND ALSO FOR A PC ENVIRONMENT (I USE THE NET EXPRESS IDE) WITH
